@@ -1,5 +1,8 @@
-## Hi there 👋
+## Hi there 🌌
 
+- 🌱 I’m in my 2A term of software engineering at the University of Waterloo
+- 🔭 I’m currently leading the Frontend Team for Electriumap
+- 🗺️ I'm researching how to improve sublinear algorithms for quantum graph colouring w Helia Yazdanyar
 <!--
 **hannahwiens/hannahwiens** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
