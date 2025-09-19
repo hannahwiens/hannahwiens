@@ -4,7 +4,6 @@ My name is Hannah, and I'm in my 2A term studying software engineering at the Un
 
 - 🔭 I’m currently leading the Frontend Team for Electriumap, an app for mapping e-bike commutes. Check it out [here](https://github.com/Electrium-Mobility/electriumap)
 - 🗺️ I'm researching how to improve sublinear algorithms for quantum graph colouring w Helia Yazdanyar
-- 🌱 Some of my hobbies: sketching, archery, and writing
 <!--
 **hannahwiens/hannahwiens** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
