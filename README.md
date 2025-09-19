@@ -1,6 +1,6 @@
 ## Hi! 🌌
 
-My name is Hannah, and I'm in my 2A term studying software engineering at the University of Waterloo, interested in all things full-stack!
+My name is Hannah, and I'm in my 2A term studying software engineering at the University of Waterloo.
 
 - 🔭 I’m currently leading the Frontend Team for Electriumap, an app for mapping e-bike commutes. Check it out [here](https://github.com/Electrium-Mobility/electriumap)!
 - 🗺️ I'm researching how to improve sublinear algorithms for quantum graph colouring w Helia Yazdanyar
