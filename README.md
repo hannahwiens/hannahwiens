@@ -1,4 +1,4 @@
-## Hi there  🌌
+## Hi! 🌌
 
 My name is Hannah, and I'm in my 2A term studying software engineering at the University of Waterloo, interested in all things full-stack!
 
