@@ -1,9 +1,10 @@
 ## Hi! 🌌
 
-My name is Hannah, and I'm in my 2A term studying software engineering at the University of Waterloo.
+My name is Hannah! I'm in my 2A term studying software engineering at the University of Waterloo 🌱
 
-- 🔭 I’m currently leading the Frontend Team for Electriumap, an app for mapping e-bike commutes. Check it out [here](https://github.com/Electrium-Mobility/electriumap)!
-- 🗺️ I'm researching how to improve sublinear algorithms for quantum graph colouring w Helia Yazdanyar
+I’m currently:
+- 🔭 leading the Frontend Team for Electriumap, an app for mapping e-bike commutes. Check it out [here](https://github.com/Electrium-Mobility/electriumap)!
+- 🗺️ Researching how to improve sublinear algorithms for quantum graph colouring in the Early Undergraduate Research Experience Program w Helia Yazdanyar
 <!--
 **hannahwiens/hannahwiens** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
