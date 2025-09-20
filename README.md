@@ -1,4 +1,4 @@
-## Hi! 🌌
+## Hi there! 🌌
 
 My name is Hannah! I'm in my 2A term studying software engineering at the University of Waterloo 🌱
 
